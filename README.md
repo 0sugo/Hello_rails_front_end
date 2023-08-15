@@ -25,7 +25,7 @@
 
 # 📖 hello_rails_front_end <a name="about-project"></a>
 
-- This is a greeting app built using react and rails
+- This is a greeting app built using react and redux and it consumes an external API provided by a counter-backend application
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,6 +104,12 @@ To run spec tests, run the following command:
 
 ```sh
 rspec
+```
+
+
+## 🔗 Link to Rails API
+```
+https://github.com/0sugo/Hello_rails_back_end/pull/1
 ```
 
 
