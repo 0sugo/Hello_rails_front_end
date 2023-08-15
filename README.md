@@ -25,7 +25,7 @@
 
 # 📖 hello_rails_front_end <a name="about-project"></a>
 
-- This is a greeting app built using react and rails
+- This is a greeting app built using react and redux and it consumes an external API provided by a counter-backend application
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,7 +77,7 @@ Install this project with:
 Example command:
 
 ```sh
-bundle && npm install
+npm install
 ```
 
 ### Usage
@@ -90,20 +90,10 @@ Example command:
 - Open the terminal to play with the commands.
 ```
 
-### Run tests
 
-To run tests for the linter, run the following command:
-
-Example command:
-
-```sh
-rubocop -A
+## 🔗 Link to Rails API
 ```
-
-To run spec tests, run the following command:
-
-```sh
-rspec
+https://github.com/0sugo/Hello_rails_back_end/pull/1
 ```
 
 
