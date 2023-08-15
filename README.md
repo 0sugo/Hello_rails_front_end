@@ -77,7 +77,7 @@ Install this project with:
 Example command:
 
 ```sh
-bundle && npm install
+npm install
 ```
 
 ### Usage
@@ -88,22 +88,6 @@ Example command:
 
 ```sh
 - Open the terminal to play with the commands.
-```
-
-### Run tests
-
-To run tests for the linter, run the following command:
-
-Example command:
-
-```sh
-rubocop -A
-```
-
-To run spec tests, run the following command:
-
-```sh
-rspec
 ```
 
 
